@@ -22,7 +22,7 @@ Scan2Deploy Studio can be used to stage Datalogic Mobile Computers running Andro
 
 ## Compatibility
 
-* Scan2Deploy Studio requires Scan2Deploy Android version 1.11 or higher running on the Android device.  All Datalogic devices running Android 9 and above should already have this version. For Android 8 devices, this version can be installed directly from the "Hi There!" setup screen as [described here](https://github.com/datalogic/scan2deploy-android#version-111).
+* Scan2Deploy Studio requires [Scan2Deploy Android](https://github.com/datalogic/scan2deploy-android) version [1.11](https://github.com/datalogic/scan2deploy-android/releases/tag/v1.11) or higher running on the Android device.  All Datalogic devices running Android 9 and above should already have this version. For Android 8 devices, this version can be installed directly from the "Hi There!" setup screen as [described here](https://github.com/datalogic/scan2deploy-android#version-111).
 
 ## Installation
 
