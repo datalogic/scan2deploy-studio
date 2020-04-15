@@ -1,6 +1,6 @@
 # Scan2Deploy Studio
 
-Scan2Deploy Studio can be used to stage Datalogic Mobile Computers running Android 8 and above. It is installable on 64-bit Windows 7/8/10 PCs. 
+[Scan2Deploy Studio](https://datalogic.github.io/scan2deploy/studio/) can be used to stage Datalogic Mobile Computers running Android 8 and above. It is installable on 64-bit Windows 7/8/10 PCs. 
 
 ## Releases
 
